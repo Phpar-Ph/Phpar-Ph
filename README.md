@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I’m @Phpar-Ph</h1>
+<h1 align="left">👋 Hi, I’m @Phil</h1>
 
 ###
 
@@ -6,11 +6,13 @@
 
 ###
 
+
 <h3 align="left">🚀 Passionate Web Developer | React Enthusiast | Lifelong Learner</h2>
 
 ###
 
-<h4 align="left">👀 I’m interested in building full-stack web applications, UI/UX design using MERN stack.<br>🌱 I’m currently learning React Query, Zod, and building production-ready apps with Node.js + Express.<br>💼 Working on: EternaLink – a digital memorial platform using React, Tailwind.<br>💞️ I’m looking to collaborate on meaningful open-source projects and modern UI-driven applications.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love turning simple ideas into beautiful interfaces that solve real problems.</h3>
+
+<h5 align="left">👀 I’m interested in building full-stack web applications, UI/UX design using MERN stack.<br>🌱 I’m currently learning React Query, Zod, and building production-ready apps with Node.js + Express.<br>💼 Working on: EternaLink – a digital memorial platform using React, Tailwind.<br>💞️ I’m looking to collaborate on meaningful open-source projects and modern UI-driven applications.<br>😄 Pronouns: he/him<br>⚡ Fun fact: I love turning simple ideas into beautiful interfaces that solve real problems.</h3>
 
 ###
 
