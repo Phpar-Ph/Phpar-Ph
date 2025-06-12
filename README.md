@@ -36,6 +36,15 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS logo" />
 
+<!-- Go logo -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
+
+<!-- Fiber logo -->
+<img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" height="40" alt="Fiber logo" />
+
+
+
+
 </div>
 
 ###
