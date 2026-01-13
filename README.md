@@ -30,8 +30,8 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="height:40px;" alt="TailwindCSS logo" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px;" alt="HTML logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="height:40px;" alt="Go logo" />
-  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" style="height:40px;" alt="Fiber logo" />
+  <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="height:40px;" alt="Go logo" />
+  <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" style="height:40px;" alt="Fiber logo" /> -->
 </div>
 
 
